@@ -32,7 +32,11 @@ drive hourly rates among freelancers.
 
 ## Project Structure
 freelancer_analysis/
+
 ├── data/
+
 │   └── global_freelancers_raw.csv
+
 ├── freelancer_analysis.ipynb
+
 └── README.md
